@@ -1,0 +1,6 @@
+{
+  "name": "Telebachillerato de Mahuixtlan",
+  "description": "Sitio web oficial del Telebachillerato de Mahuixtlan en Veracruz. Ofertas educativas, testimonios de alumnos y contacto directo para inscripciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
